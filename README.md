@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm [Ayesha Farooq]</h1>
-<h3 align="center">Creative Full Stack Developer | Building Interactive Web Experiences 🚀</h3>
+<h3 align="center">Creative Full Stack Developer | Building Interactive Web Experiences </h3>
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 I'm a passionate Full Stack Developer who loves building modern, high-performance web applications with immersive user experiences.
 
@@ -11,28 +11,28 @@ I specialize in creating dynamic and visually engaging interfaces using modern f
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
-#### 🧠 Frontend
+#### Frontend
 - HTML5, CSS3 (Modern CSS)
 - JavaScript (ES6+)
 - React.js / Next.js
 - Tailwind CSS / Bootstrap 5
 
-#### ⚙️ Backend
+#### Backend
 - Node.js / Express.js
 - RESTful APIs
 
-#### 🗄️ Database
+#### Database
 - MongoDB
 - Firebase
 - SQL (CRUD operations, data storage & retrieval)
 
-#### 🎨 3D & Animation
+#### 3D & Animation
 - Three.js (3D model integration & control)
 - GSAP (advanced animations)
 
-#### 🛠️ Tools
+#### Tools
 - VS Code
 - Git & GitHub
 
@@ -60,9 +60,9 @@ I specialize in creating dynamic and visually engaging interfaces using modern f
 
 ### 📫 Connect With Me
 
-- GitHub: https://github.com/[your-username]  
-- LinkedIn: [Add here]  
-- Portfolio: [Add here]  
+- GitHub: https://github.com/[ayesha23afarooq]  
+- LinkedIn: [www.linkedin.com/in/ayesha-farooq-677071307]  
+- Portfolio: [ayeshatech.com]  
 
 ---
 
