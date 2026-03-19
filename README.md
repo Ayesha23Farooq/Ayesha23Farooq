@@ -16,6 +16,7 @@ I specialize in creating dynamic and visually engaging interfaces using modern f
 #### Frontend
 - HTML5, CSS3 (Modern CSS)
 - JavaScript (ES6+)
+- TypeScript
 - React.js / Next.js
 - Tailwind CSS / Bootstrap 5
 
