@@ -62,7 +62,7 @@ I specialize in creating dynamic and visually engaging interfaces using modern f
 
 - GitHub: https://github.com/[ayesha23afarooq]  
 - LinkedIn: [www.linkedin.com/in/ayesha-farooq-677071307]  
-- Portfolio: [ayeshatech.com]  
+- Portfolio: ayeshatech.com
 
 ---
 
