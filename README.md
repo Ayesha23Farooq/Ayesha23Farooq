@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Ayesha Farooq]</h1>
+<h1 align="center">Hi 👋, I'm Ayesha Farooq</h1>
 <h3 align="center">Creative Full Stack Developer | Building Interactive Web Experiences </h3>
 
 ---
